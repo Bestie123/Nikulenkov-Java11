@@ -19,8 +19,9 @@
 ### Установка
 
 ```bash
-git clone https://github.com/ВАШ_USERNAME/ВашаФамилия-Java.git
-cd ВашаФамилия-Java
+git clone https://github.com/Bestie123/Nikulenkov-Java11
+.git
+cd Nikulenkov-Java11
 ```
 
 ### Компиляция
@@ -124,6 +125,6 @@ a > b
 
 ## 👤 Автор
 
-**[Ваше Имя]**
+**[Михаил Никуленков]**
 
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@Bestie123](https://github.com/Bestie123)
